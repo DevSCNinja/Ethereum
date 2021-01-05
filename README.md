@@ -12,10 +12,6 @@ The source codes are divided into `courses` and `chapters` as folders and chapte
 ## How To Use
 You can simply clone the project to your local storage with following command:
 
-```
-git clone https://github.com/loomnetwork/cryptozombies-lesson-code.git
-```
-
 Or fork it to modify the sample codes for your own study.
 
 If you found any error in the codes while you study, Feel free to submit pull requests or issues.
